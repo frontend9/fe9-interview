@@ -21,7 +21,7 @@
 
 前端基础（[html](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Ahtml)、[css](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Acss)、[javascript](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Ajavascript)、[async](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Aasync)、[typescript](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Atypescript)、[babel](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Ababel)）
 
-编程基础(algorithm、[compile](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Acompile)、[regular-expression](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3A%22Regular+Expression%22))
+编程基础([http](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Ahttp)、[algorithm](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Aalgorithm)、[compile](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Acompile)、[regular-expression](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3A%22Regular+Expression%22))
 
 工程相关 ([think](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Athink)、[build](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Abuild)、[webpack](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Awebpack))
 
