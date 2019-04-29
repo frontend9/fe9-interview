@@ -1,21 +1,37 @@
+# 相互面试规则
+
+相互面试是前端九部成员彼此交流学习的一种方式，通过出面试题，来点名某个九部成员回答的方式来运作。
+ 
+
+## 出题规则
+
+### 谁会被点名面试
+
+所有名下没有open状态的问题（无论是自己发起的面试题还是被点名的面试题）的九部成员，都可以被点名回答。
+
+PS: 可以点名自己回答某个面试题。
+
+### 谁可以出面试题
+
+所有名下没有open状态的问题（无论是自己发起的面试题还是被点名的面试题）的九部成员，都可以点名某人回答某个面试题。
 
 
-## 面试公司为标签
+### 问题标题格式： 
+To:答题人 问题标题
 
-阿里巴巴、淘宝网、天猫、全球速卖通、阿里巴巴国际站、1688、阿里妈妈、阿里云、菜鸟网络，蚂蚁金服 
+如： To:cc form表单可以跨域吗?
 
-腾讯、微信、QQ、财付通，微信支付、理财通、腾讯游戏、腾讯影业、腾讯电竞、腾讯动漫、腾讯视频、QQ音乐、企鹅影视、腾讯音乐娱乐集团、企鹅电竞、腾讯网、腾讯新闻、天天快报、应用宝、QQ浏览器、腾讯手机管家、腾讯地图、腾讯开放平台、腾讯云、腾讯AILab、优图实验室
+### 问题正文格式:
 
-[网易](https://github.com/frontend9/fe9-interview/labels/网易)、[考拉](https://github.com/frontend9/fe9-interview/labels/考拉)、[严选](https://github.com/frontend9/fe9-interview/labels/严选)
+点名答题人: 可以为自己
 
+面试公司: 可以为未知
 
+面试环节: 可以为未知
 
-## 面试环节为标签
+问题：简述问题
 
-
-[一面](https://github.com/frontend9/fe9-interview/labels/一面)、[二面](https://github.com/frontend9/fe9-interview/labels/二面)、[三面](https://github.com/frontend9/fe9-interview/labels/三面)、[四面](https://github.com/frontend9/fe9-interview/labels/四面)、[五面](https://github.com/frontend9/fe9-interview/labels/五面)、
-
-
+# 历史面试题索引
 
 ## 以技术栈为标签
 
@@ -38,3 +54,22 @@ Nodejs（[nodejs](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue
 体验度量和优化([performance](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Aperformance))
 
 可视化（antV）
+
+
+## 面试公司为标签
+
+阿里巴巴、淘宝网、天猫、全球速卖通、阿里巴巴国际站、1688、阿里妈妈、阿里云、菜鸟网络，蚂蚁金服 
+
+腾讯、微信、QQ、财付通，微信支付、理财通、腾讯游戏、腾讯影业、腾讯电竞、腾讯动漫、腾讯视频、QQ音乐、企鹅影视、腾讯音乐娱乐集团、企鹅电竞、腾讯网、腾讯新闻、天天快报、应用宝、QQ浏览器、腾讯手机管家、腾讯地图、腾讯开放平台、腾讯云、腾讯AILab、优图实验室
+
+[网易](https://github.com/frontend9/fe9-interview/labels/网易)、[考拉](https://github.com/frontend9/fe9-interview/labels/考拉)、[严选](https://github.com/frontend9/fe9-interview/labels/严选)
+
+
+
+## 面试环节为标签
+
+
+[一面](https://github.com/frontend9/fe9-interview/labels/一面)、[二面](https://github.com/frontend9/fe9-interview/labels/二面)、[三面](https://github.com/frontend9/fe9-interview/labels/三面)、[四面](https://github.com/frontend9/fe9-interview/labels/四面)、[五面](https://github.com/frontend9/fe9-interview/labels/五面)、
+
+
+
