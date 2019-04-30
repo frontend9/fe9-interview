@@ -72,6 +72,14 @@ Nodejs（[nodejs](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue
 
 [网易](https://github.com/frontend9/fe9-interview/labels/网易)、[考拉](https://github.com/frontend9/fe9-interview/labels/考拉)、[严选](https://github.com/frontend9/fe9-interview/labels/严选)
 
+[字节跳动](https://github.com/frontend9/fe9-interview/labels/字节跳动)、[今日头条](https://github.com/frontend9/fe9-interview/labels/今日头条)
+
+[有赞](https://github.com/frontend9/fe9-interview/labels/有赞)
+
+[软通](https://github.com/frontend9/fe9-interview/labels/软通)
+
+[百分点](https://github.com/frontend9/fe9-interview/labels/百分点)
+
 
 
 ## 面试环节为标签
