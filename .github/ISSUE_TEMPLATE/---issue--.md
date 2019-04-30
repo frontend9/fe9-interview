@@ -1,14 +1,14 @@
 ---
 name: 面试题issue模板
 about: Describe this issue template's purpose here.
-title: 'To xx: 问题标题'
+title: 'To 组内成员Github昵称: 面试题标题'
 labels: ''
 assignees: ''
 
 ---
 
 **To：**
-这里是点名的回答者
+点名谁来回答(必须是github的昵称，最好这里设为对方的github主页地址)
 
 
 **面试公司：**
@@ -20,4 +20,4 @@ assignees: ''
 
 
 **问题：**
-请在这里描述问题
+请在这里准确描述问题
