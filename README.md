@@ -80,6 +80,8 @@ Nodejs（[nodejs](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue
 
 [百分点](https://github.com/frontend9/fe9-interview/labels/百分点)
 
+[兑吧](https://github.com/frontend9/fe9-interview/labels/兑吧)
+
 
 
 ## 面试环节为标签
