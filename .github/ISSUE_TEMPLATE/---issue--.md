@@ -1,7 +1,7 @@
 ---
 name: 面试题issue模板
 about: Describe this issue template's purpose here.
-title: 'To 组内成员Github昵称: 面试题标题'
+title: 'To 组内成员Github账号: 面试题标题'
 labels: ''
 assignees: ''
 
