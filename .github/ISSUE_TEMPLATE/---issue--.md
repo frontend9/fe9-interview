@@ -8,8 +8,7 @@ assignees: ''
 ---
 
 ### To：
-点名谁来回答，必须是对方的 github 账号，格式如 [acodercc](https://github.com/acodercc)
-
+点名谁来回答，必须是对方的 github 账号，格式如 @acodercc
 
 ### 面试公司：
 请在这里介绍该面试题是哪家公司遇到的
