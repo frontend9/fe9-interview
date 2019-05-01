@@ -101,7 +101,7 @@ Nodejs（[nodejs](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue
 ## 面试环节为标签
 
 
-[一面](https://github.com/frontend9/fe9-interview/labels/一面)、[二面](https://github.com/frontend9/fe9-interview/labels/二面)、[三面](https://github.com/frontend9/fe9-interview/labels/三面)、[四面](https://github.com/frontend9/fe9-interview/labels/四面)、[五面](https://github.com/frontend9/fe9-interview/labels/五面)、
+[笔试](https://github.com/frontend9/fe9-interview/labels/笔试)、[一面](https://github.com/frontend9/fe9-interview/labels/一面)、[二面](https://github.com/frontend9/fe9-interview/labels/二面)、[三面](https://github.com/frontend9/fe9-interview/labels/三面)、[四面](https://github.com/frontend9/fe9-interview/labels/四面)、[五面](https://github.com/frontend9/fe9-interview/labels/五面)、
 
 
 
