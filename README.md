@@ -1,23 +1,23 @@
-# 互面小组介绍
+# 1. 互面小组介绍
 
 互相点名面试是前端九部互面小组成员彼此交流学习的一种方式，通过互出面试题，来点名某个九部互面小组的同学进行回答的方式来运作。
 
-## 面试规则
+## 1.1 面试规则
 
-### 谁可以被点名面试
+### 1.1.1 谁可以被点名面试
 
 1. 九部互面小组的正式成员
 2. 同一时间，每名成员只能回答一道面试题，所以没有被点名面试，并正在回答某面试题的九部互面小组成员，都可以被点名回答。
 3. 可以点名自己回答某个面试题。
 4. 考虑到大家可能都会点名组长来回答，所以组长不可以被点名面试。
 
-### 谁可以发起点名面试
+### 1.1.2 谁可以发起点名面试
 
 1. 九部互面小组的同学，同一时间只能点名一位其他小组同学进行面试，监督被面试同学回答自己提出的问题后，才可以点名下一个同学进行面试
 2. 非九部互面小组的同学，只能点名自己，回答某个面试题。如面试题问答较为全面细致认真，可联系常务运营同学，常务运营同学会视面试题问答质量，引导成为正式成员
 
  
-## 如何成为互面小组正式成员
+## 1.2 如何成为互面小组正式成员
 
 1. 向自己提问一道面试题
 2. 全面细致认真的回答自己提问的面试题
@@ -26,25 +26,25 @@
 5. 在互面小组正式微信群内，可开始互相点名面试
 
 
-# 组织结构和职责
+# 2. 组织结构和职责
 
-## 组长
+## 2.1 组长
 
 winter
 
 阮一峰
 
 
-## 组长职责
+## 2.2 组长职责
 
 不定期对知识库的面试题及答案进行点评，对高质量面试问答，选编进九部语雀的 [《前端九部 - 面试题库精选集》](https://www.yuque.com/fe9/interview)。
 
 
-## 常务运营
+## 2.3 常务运营
 
 ![IMG_1256_150.gif](https://i.loli.net/2019/05/01/5cc8f036be9d8.gif)
 
-## 常务运营职责
+## 2.4 常务运营职责
 
 1. 负责新成员的接待及咨询帮助
 2. 筛选高质量自问自答面试题的创作者，引导成为正式组员
@@ -54,9 +54,9 @@ winter
 
 
 
-# 历史面试题索引
+# 3 历史面试题索引
 
-## 以技术栈为标签
+## 3.1 以技术栈为标签
 
 
 前端基础（[html](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Ahtml)、[css](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Acss)、[javascript](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Ajavascript)、[async](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Aasync)、[typescript](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Atypescript)、[babel](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue+is%3Aopen+label%3Ababel)）
@@ -79,7 +79,7 @@ Nodejs（[nodejs](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue
 可视化（antV）
 
 
-## 面试公司为标签
+## 3.2 面试公司为标签
 
 [阿里巴巴](https://github.com/frontend9/fe9-interview/labels/阿里巴巴)、淘宝网、天猫、全球速卖通、阿里巴巴国际站、1688、阿里妈妈、阿里云、菜鸟网络，蚂蚁金服 
 
@@ -99,7 +99,7 @@ Nodejs（[nodejs](https://github.com/frontend9/fe9-interview/issues?q=is%3Aissue
 
 
 
-## 面试环节为标签
+## 3.3 面试环节为标签
 
 
 [笔试](https://github.com/frontend9/fe9-interview/labels/笔试)、[一面](https://github.com/frontend9/fe9-interview/labels/一面)、[二面](https://github.com/frontend9/fe9-interview/labels/二面)、[三面](https://github.com/frontend9/fe9-interview/labels/三面)、[四面](https://github.com/frontend9/fe9-interview/labels/四面)、[五面](https://github.com/frontend9/fe9-interview/labels/五面)、
