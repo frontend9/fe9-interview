@@ -1,7 +1,7 @@
 ---
 name: 面试题 issue 模板
 about: Describe this issue template's purpose here.
-title: 面试题公司名：面试题标题
+title: 面试题公司名：面试题标题（面试环节）
 labels: ''
 assignees: ''
 
